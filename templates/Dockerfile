@@ -12,4 +12,4 @@ RUN mkdir -p /etc/bash_completion.d \
     && mkdir -p /root/.yatr \
     && mkdir -p /root/.depman
 
-CMD ["python2"]
+CMD ["python3"]
